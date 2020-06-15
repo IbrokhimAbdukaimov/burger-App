@@ -2,8 +2,8 @@ This application is created using ReactJS, and
 it is a sample burger builder project, nothing special
 
 it includes:
--React
--React Routed
+-React,
+-React Router,
 -Redux
 and etc.
 
